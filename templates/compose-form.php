@@ -33,13 +33,13 @@
         <label class="control-label" for="plugin_author_name">
             Author Name
         </label>
-        <input name="plugin_author_name" id="plugin_author_name"  class="input-control" placeholder="weLabs">
+        <input name="plugin_author_name" id="plugin_author_name"  class="input-control" placeholder="PluginizeLab">
     </div>
     <div class="form-group">
         <label class="control-label" for="plugin_author_email">
             Author Email
         </label>
-        <input name="plugin_author_email" id="plugin_author_email" type="email" class="input-control" placeholder="contact@welabs.dev">
+        <input name="plugin_author_email" id="plugin_author_email" type="email" class="input-control" placeholder="contact@pluginizelab.com">
     </div>
     <div class="form-group">
         <label class="control-label" for="plugin_author_uri">

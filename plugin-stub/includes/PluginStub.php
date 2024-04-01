@@ -1,6 +1,6 @@
 <?php
 
-namespace WeLabs\PluginStub;
+namespace PluginizeLab\PluginStub;
 
 /**
  * PluginStub class

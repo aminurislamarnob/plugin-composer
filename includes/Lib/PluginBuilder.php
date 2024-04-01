@@ -13,12 +13,12 @@ class PluginBuilder implements BuilderContract {
     protected $file_system;
 
     protected $placeholders = [
-        'plugin_description' => 'Custom plugin by weLabs',
+        'plugin_description' => 'Custom plugin by PluginizeLab',
         'plugin_license' => 'GPL2',
-        'plugin_uri' => 'https://welabs.dev',
-        'plugin_author_name' => 'WeLabs',
-        'plugin_author_email' => 'contact@welabs.dev',
-        'plugin_author_uri' => 'https://welabs.dev',
+        'plugin_uri' => 'https://pluginizelab.com/',
+        'plugin_author_name' => 'PluginizeLab',
+        'plugin_author_email' => 'contact@pluginizelab.dev',
+        'plugin_author_uri' => 'https://pluginizelab.com/',
     ];
 
     public function __construct( FileSystemContract $file_system ) {
